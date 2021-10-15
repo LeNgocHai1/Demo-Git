@@ -1,4 +1,0 @@
-Đây là file week1.txt
-<<<<<<< Updated upstream
-Thuộc branch: week1 chỉ thế
-
